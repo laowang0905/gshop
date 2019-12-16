@@ -1,0 +1,15 @@
+html,body {
+  height: 100%;
+  overflow: hidden;
+}
+a {
+  text-decoration: none;
+}
+.main {
+  height: 100%;
+  overflow-y: scroll;
+}
+.bg {
+  background-color: #02a774 !important;
+  z-index: 1000 !important;
+}
